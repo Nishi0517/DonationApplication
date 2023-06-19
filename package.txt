@@ -25,6 +25,8 @@ connection string:
 
 code first migration
 
+add-migration 'initial'
+update-databse
 
 issue: --
 
