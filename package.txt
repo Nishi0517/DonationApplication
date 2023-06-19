@@ -1,0 +1,32 @@
+
+backend
+
+
+Microsoft.AspNetCore.Cors 2.2.0
+Microsoft.EntityFrameworkCore 6.0.8
+Microsoft.EntityFrameworkCore.SqlServer 6.0.8
+Microsoft.EntityFrameworkCore.Tools 6.0.8
+
+front end
+
+
+npm i axios@1.4.0
+npm install cors --force
+npm i @material-ui/lab --force
+npm i axios --force
+npm install @material-ui/icons --force
+
+
+
+
+connection string:
+
+ "DonationDBContext": "server=ATI-1;database=DonationDB;Integrated Security=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+
+code first migration
+
+
+issue: --
+
+after delete / insert list should be updated but after refresh it is updated.
+working fine with update record it will updated automatically after update records.
