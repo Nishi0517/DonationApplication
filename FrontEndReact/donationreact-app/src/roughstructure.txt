@@ -1,0 +1,25 @@
+
+
+src--action
+
+api.js
+
+dcantdatre.jsstore.js
+
+components
+
+
+    dcandidateform.js---child
+    dcandidate.js -parent
+    userForm.js
+
+reducers 
+    dcandidtae.js
+    index.js
+
+
+app.js
+    index.js    
+    index.css
+
+
